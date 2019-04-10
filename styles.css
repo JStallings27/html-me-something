@@ -1,3 +1,55 @@
-h1{
-text-align: center;
+body{
+    background-color: black;
+    letter-spacing: 2px
 }
+
+.layout{
+    text-align: center;
+    color: white;
+}
+
+.font25{
+    font-size: 25px;
+    font-family: Calibri;
+}
+
+h1{
+    font-size: 100px;
+    font-family: Verdana;
+    background: url(https://noobtuts.com/content/unity/2d-space-shooter-game/background_scrolling.gif) center fixed
+}
+
+html{
+    background: url(https://i.ytimg.com/vi/2v3YSRqWP0A/maxresdefault.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h2{
+    font-size: 50px;
+}
+
+#main-title{
+    text-transform: uppercase;
+    border: 20px solid darkblue;
+}
+
+p{
+    margin: 100px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
